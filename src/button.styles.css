@@ -1,0 +1,21 @@
+.button-style {
+    flex-basis: 25%;
+    background: rgb(85, 80, 80);
+    color: #f6eaed;
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+    border: none;
+    border-right: solid 2px #090a0a;
+    border-bottom: solid 2px #0e0f0f;
+    
+  }
+  
+  .button-style:hover {
+    background-color: rgb(235, 15, 95);
+    color: #070707;
+  }
+  
+
+
+
